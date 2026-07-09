@@ -1,0 +1,6 @@
+{
+  "name": "Husband's Birthday Surprise",
+  "description": "An interactive, beautiful, and customizable birthday surprise website for a beloved husband, featuring a shared photo gallery, romantic timeline, scratch-off notes, interactive mini-games, and a QR code scanner/secret surprise portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
